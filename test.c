@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "library.h"
+#include "cobjects.h"
 
 typedef CObject_t Animal;
 typedef Animal Hybrid;
